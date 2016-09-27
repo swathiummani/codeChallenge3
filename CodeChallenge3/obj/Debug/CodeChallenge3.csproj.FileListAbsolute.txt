@@ -1,0 +1,6 @@
+E:\VsProjects\CodeChallenge3\CodeChallenge3\bin\Debug\CodeChallenge3.exe.config
+E:\VsProjects\CodeChallenge3\CodeChallenge3\bin\Debug\CodeChallenge3.exe
+E:\VsProjects\CodeChallenge3\CodeChallenge3\bin\Debug\CodeChallenge3.pdb
+E:\VsProjects\CodeChallenge3\CodeChallenge3\obj\Debug\CodeChallenge3.csprojResolveAssemblyReference.cache
+E:\VsProjects\CodeChallenge3\CodeChallenge3\obj\Debug\CodeChallenge3.exe
+E:\VsProjects\CodeChallenge3\CodeChallenge3\obj\Debug\CodeChallenge3.pdb
